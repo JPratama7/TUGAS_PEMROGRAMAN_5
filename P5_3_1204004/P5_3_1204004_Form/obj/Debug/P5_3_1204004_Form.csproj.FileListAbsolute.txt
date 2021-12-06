@@ -1,0 +1,11 @@
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\bin\Debug\P5_3_1204004_Form.exe.config
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\bin\Debug\P5_3_1204004_Form.exe
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\bin\Debug\P5_3_1204004_Form.pdb
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\obj\Debug\P5_3_1204004_Form.csprojResolveAssemblyReference.cache
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\obj\Debug\P5_3_1204004_Form.Properties.Resources.resources
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\obj\Debug\P5_3_1204004_Form.csproj.GenerateResource.Cache
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\obj\Debug\P5_3_1204004_Form.exe
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\obj\Debug\P5_3_1204004_Form.pdb
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\bin\Debug\P5_3_1204004.dll
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\bin\Debug\P5_3_1204004.pdb
+D:\dotnetp5\P5_3_1204004\P5_3_1204004_Form\obj\Debug\P5_3_1204004_Form.Form1.resources
