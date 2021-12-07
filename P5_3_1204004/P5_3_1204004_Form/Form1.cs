@@ -36,16 +36,15 @@ namespace P5_3_1204004_Form
         {
             if ((lk.Checked == true || pr.Checked == true) && NIM.Text != "" && nama.Text != "" && alamat.Text != "" && progcb.Text != "" && thak.Text != "" && semes.Text != "")
             {
-                if(k2006.Checked == true)
+                Size = new Size(784, 639);
+                if (k2006.Checked == true)
                 {
-                    matkul.Enabled = false;
                     matkul.Enabled = true;
                     checkBox12.Enabled = false;
                     checkBox9.Enabled = false;
                 }
                 else if (k2010.Checked == true)
                 {
-                    matkul.Enabled = false;
                     matkul.Enabled = true;
                     mtk.Enabled = false;
                     checkBox9.Enabled = false;
@@ -53,7 +52,6 @@ namespace P5_3_1204004_Form
 
                 else if (k2014.Checked == true)
                 {
-                    matkul.Enabled = false;
                     matkul.Enabled = true;
                     mtk.Enabled = false;
                     checkBox12.Enabled = false;
