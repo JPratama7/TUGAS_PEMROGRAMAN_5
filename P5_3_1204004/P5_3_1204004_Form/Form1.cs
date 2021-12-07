@@ -74,5 +74,10 @@ namespace P5_3_1204004_Form
             string message = String.Format("NIM : {0}\nNama : {1}\nJenis Kelamin : {2}\nAlamat : {3}\nProgram Studi : {4}\nTahun Akademik : {5}\nSemester : {6}\nKurikulum : {7}\nKelas : {8}\n", NIM.Text, nama.Text, jk, alamat.Text, pr.Text, thak.Text, semes.Text, kuri, kelas);
             MessageBox.Show(message);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
